@@ -1,8 +1,20 @@
+#Variables are "things" that hold data for use later in a program
+'''Make sure that you name your variable something that describes the data that it holds (so not just 'a' or 'b' or something like that)'''
+
 #To create a variable use a name = value assignment
 message = "This is a message"
 print (message)
 
-##2-1 simple message
+#Naming variables
+'''There are a few key rules when naming variables.
+They are:
+No spaces
+Don't start with a number
+Not a keyword (e.g. print, int)
+Don't start with capital letter'''
+
+
+#2-1 simple message
 '''write your own message in a variable and print it'''
 
 

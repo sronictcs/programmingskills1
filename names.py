@@ -3,6 +3,13 @@ name = "alan turing"
 print(name.upper())
 print(name.lower())
 
+#1-6 create a variable for your name and output upper and lower case
+
+
+
+
+#Use variables to store first and last names
+
 first_name = "alan"
 last_name = "turing"
 
@@ -10,12 +17,14 @@ last_name = "turing"
 full_name = f"{first_name} {last_name}"
 print(full_name)
 
+#1-7 print your name using an f-string and variables for your first and last names
+
+
+
 #string.title() makes string title case
 print(f"Hello, {full_name.title()}!")
 
-#f-string as variable called by print
-message = f"Hello, {first_name} {last_name}"
-print(message)
+#1-8 Store a variable with mr williams as the content. Use title() to print it correctly.
 
 
 

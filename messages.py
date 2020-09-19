@@ -14,11 +14,11 @@ Not a keyword (e.g. print, int)
 Don't start with capital letter'''
 
 
-#2-1 simple message
+#1-2 simple message
 '''write your own message in a variable and print it'''
 
 
-#2-2 More simple messages
+#1-3 More simple messages
 '''write a new message variable (like message2 = "", print it, then change the message and print it again.'''
 
 
@@ -28,12 +28,17 @@ weather = "rain"
 print(f"The weather is {weather}")
 
 
-#2-3 personal message
-'''2-3. Personal Message: Use a variable to represent a person’s name, and print
+#1-4 personal message
+'''Use a variable to represent a person’s name, and print
 a message to that person using an f-string. Your message should be simple, such as, “Hello Eric,
 would you like to learn some Python today?”'''
 
-#print the answer to 4*2
+
+#To do mathematical operations you can use +, -, / and *
+#e.g print(5+6) will output 11
+
+#1-5 print the answer to 4*2
+
 
 
 

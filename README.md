@@ -1,5 +1,7 @@
-# programmingintro
+# programmingskills1
 Programming Activities for an introduction to Python.
+
+Lesson 1
 
 Order to Complete:
 1. helloworld.py
